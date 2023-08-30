@@ -1,7 +1,4 @@
-package com.ada.pooii.zoologico.interfaces;
-
-import java.sql.Connection;
-import java.sql.SQLException;
+package santander.zoologico.interfaces;
 import java.util.List;
 
 public class Zoologico {
