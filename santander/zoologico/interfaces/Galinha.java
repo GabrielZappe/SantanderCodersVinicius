@@ -1,4 +1,4 @@
-package com.ada.pooii.zoologico.interfaces;
+package santander.zoologico.interfaces;
 
 public class Galinha extends Animal {
     @Override
