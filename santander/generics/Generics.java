@@ -1,4 +1,4 @@
-package com.santander.generics;
+package santander.generics;
 import java.nio.charset.StandardCharsets;
 
 public class Generics {
