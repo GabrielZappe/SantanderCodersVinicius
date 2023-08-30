@@ -1,4 +1,4 @@
-package com.ada.pooii.zoologico.interfaces;
+package santander.zoologico.interfaces;
 
 public class Golfinho extends Animal implements Nadador, Amamentador {
 
