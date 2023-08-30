@@ -1,5 +1,4 @@
-package com.ada.pooii.zoologico.interfaces;
-
+package santander.zoologico.interfaces;
 public abstract class Animal {
 
     public void alimentar() {
