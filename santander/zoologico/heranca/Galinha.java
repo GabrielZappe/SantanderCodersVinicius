@@ -1,4 +1,4 @@
-package com.santander.zoologico.heranca;
+package santander.zoologico.heranca;
 
 public class Galinha extends Aves {
 
